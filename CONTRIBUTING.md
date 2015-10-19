@@ -21,6 +21,6 @@ Describe the desired behavior and what would deem this issue/bug/feature complet
 ### Additional Info (optional)
 Include any images, steps to recreate, notes, emojis, or whatever. This may helpfully include code snippets, screenshots, and/or videos of a bug in its natural habitat.
 
-#[Create Issue!](https://github.com/CodeMontageHQ/codemontage/issues/new?body=Description%0A-------%0A%20%0A%0AAsk%0A--------%0A%0ASteps%0A--------%0A%0ATo%20Do%20(Optional)%0A--------%0A%0AAdditional%20Info%20(Optional)%0A--------%0A)
+# [Create Issue!](https://github.com/CodeMontageHQ/codemontage/issues/new?body=Description%0A-------%0A%20%0A%0AAsk%0A--------%0A%0ASteps%0A--------%0A%0ATo%20Do%20(Optional)%0A--------%0A%0AAdditional%20Info%20(Optional)%0A--------%0A)
 
 This format is heavily borrowed from [Girl Develop It](https://github.com/girldevelopit/gdi-new-site). Thanks GDI Team!
